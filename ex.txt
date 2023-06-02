@@ -1,0 +1,26 @@
+[
+"moataz" : [1,1,1,0,0,0,0,0...],
+"mina" : [0,0,0,1,1,1,0...]
+]
+
+
+
+i love mina
+
+[
+'i' : [1 , 0...],
+'love' : [0,1,0]
+]
+
+
+moataz moataz moataz mina mina mina Mahmoud Mahmoud nourhan Mahmoud moataz Menna Menna Nada Nada Nada
+
+
+
+   date //  file name // words // indexs
+   28/5/2023 // simple text // mina // [1 , 1] 
+	
+
+
+
+
